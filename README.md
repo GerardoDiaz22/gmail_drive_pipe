@@ -1,10 +1,10 @@
-# Requisitos del proyecto
+## Requisitos del proyecto
 - Python 3.10.7 o superior.
 - Gmail API y Google Drive API habilitadas en Google Cloud.
 - Configuración de OAuth en Google Cloud.
 - Credenciales de OAuth para la aplicación descargadas como `credentials.json`.
 
-# Como ejecutar el proyecto
+## Como ejecutar el proyecto
 - Instalar las dependencias necesarias
 ```bash
 pip install -r requirements.txt
